@@ -1,2 +1,2 @@
 # GuitarEffects
-Various guitar effects (phaser, flanger, vocoder) created using the python Pyo package
+Various guitar effects (phaser, flanger, vocoder, etc.) created using the python Pyo package
